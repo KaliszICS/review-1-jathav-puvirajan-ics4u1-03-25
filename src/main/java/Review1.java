@@ -22,6 +22,7 @@ public class Review1 {
 	public static void q5() {
 		String str1 = "Hello";
 		String str2 = "World";
+		
 		System.out.print(str1 + ' ');
 		System.out.println(str2);
 	}
